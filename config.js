@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'em biết mà=))). hitle anh  😘😘',
     messDesc: 'iu emmmm hemmm HUy heo .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //khanhvysukiu
+    messLink: 'http://fb.com'//khanhvysukiu
 }
